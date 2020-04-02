@@ -3,7 +3,7 @@ lab:
     title: 'Lab: Deploying Azure Resource Manager templates'
     module: 'Module 1: Exploring Azure Resource Manager'
 ---
-
+Test
 # Lab: Deploying Azure Resource Manager templates
 # Student lab manual
 
