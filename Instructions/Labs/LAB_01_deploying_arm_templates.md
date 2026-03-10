@@ -1,7 +1,20 @@
 ---
 lab:
-    title: 'Lab: Deploying Azure Resource Manager templates'
-    module: 'Module 1: Exploring Azure Resource Manager'
+  title: 'Lab: Deploying Azure Resource Manager templates'
+  module: 'Module 1: Exploring Azure Resource Manager'
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+    lobortis, erat vel egestas faucibus, dui magna semper velit, id congue sapien
+    lectus id turpis. Nam egestas tempus enim. Ut venenatis vehicula ex, id rutrum
+    odio lacinia at. Donec congue, tortor sed fermentum imperdiet, mauris mi auctor
+    dui, ac cursus ex augue a odio. Aliquam erat volutpat. Vivamus faucibus fringilla
+    augue in dignissim. Quisque sit amet nulla id risus gravida auctor. Ut in est
+    varius, cursus odio rhoncus, placerat erat. Suspendisse nec metus est.
+  duration: 5 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Azure
+  - Azure Resource Manager
 ---
 
 # Ben's Lab: Deploying Azure Resource Manager templates
